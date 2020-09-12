@@ -1,5 +1,6 @@
 MY RESOLUSI
 - CoC DTS - Python
 - CoC NetAcad - Python
-- Certified PCAP
+- Exam Certified PCAP
 - DevOps Engineer
+- Certified Juniper DevOps
