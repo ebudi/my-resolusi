@@ -5,3 +5,4 @@ RENCANA KONTEN :
 -Membuat video materi PHP
  * membuat company profile
 -Membuat video materi Python
+ *Function
