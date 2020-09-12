@@ -1,6 +1,7 @@
 RENCANA KONTEN :
 
 -Membuat video materi HTML & CSS
+-Membuat struktur data dasar
 -Membuat video materi PHP
- ** membuat company profile
+ * membuat company profile
 -Membuat video materi Python
