@@ -6,3 +6,4 @@ RENCANA KONTEN :
  * membuat company profile
 -Membuat video materi Python
  *Function
+
