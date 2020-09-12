@@ -2,3 +2,4 @@ MY RESOLUSI
 - CoC DTS - Python
 - CoC NetAcad - Python
 - Certified PCAP
+- DevOps Engineer
